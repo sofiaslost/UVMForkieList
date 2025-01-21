@@ -3,7 +3,7 @@
 body {
     background-color: DarkSlateBlue;
     color: White;
-    font-family: "Arial", serif;
+    font-family: JetBrains Mono, serif; /* Kinda makes the website easier to read - sofia */
 }
 
 header {
