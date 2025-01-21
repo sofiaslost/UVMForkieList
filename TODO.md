@@ -5,6 +5,7 @@
 - [ ] Complainers HTML page
 - [ ] Image Gallery HTML page
 
+### HTML + CSS = Magic
 - [ ] Create a navbar for each category
 
 Example:
