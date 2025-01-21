@@ -5,3 +5,5 @@ This page is for people who suck (a.k.a. being a forkie) Unfortunatley this comm
 Check it out!
 
 https://lj9859.github.io/UVMForkieList/
+
+Also credit to @sofiaslost for helping me with the css and other design flaws (see pull requests)
