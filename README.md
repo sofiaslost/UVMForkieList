@@ -8,6 +8,6 @@ So that's why we created this website. We wanted a way to list all of the forkie
 
 Check it out Below!
 
-[UVMForkieList](https://lj9859.github.io/UVMForkieList/)
+Website: [UVMForkieList](https://lj9859.github.io/UVMForkieList/)
 
 Also credit to [@sofiaslost](https://github.com/sofiaslost) for helping me with the css and other design flaws (see pull requests)
