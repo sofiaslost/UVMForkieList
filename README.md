@@ -10,6 +10,6 @@ Check it out Below!
 
 Main Website that LJ9859 runs: [UVMForkieList](https://lj9859.github.io/UVMForkieList/)
 
-Dev Website that Sofia run: [UVMForkieList](https://sofiaslost.github.io/UVMForkieList/)
+Dev Website that Sofia runs: [UVMForkieList](https://sofiaslost.github.io/UVMForkieList/)
 
 Also credit to [@sofiaslost](https://github.com/sofiaslost) for helping me with the css and other design flaws (see pull requests)
