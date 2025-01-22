@@ -21,3 +21,7 @@ header {
     align-items: center;
     text-align: center;
 }
+
+.forkie:hover {
+    color: #ff5454;
+}
