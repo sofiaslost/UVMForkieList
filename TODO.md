@@ -7,6 +7,7 @@
 
 ### HTML + CSS = Magic
 - [ ] Create a navbar for each category
+- [ ] Make stylesheet for links
 
 Example:
 Home | Forkies | Complainers | Image Gallery
