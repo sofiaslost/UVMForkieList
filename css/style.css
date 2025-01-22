@@ -11,6 +11,11 @@ header {
     padding: auto;
 }
 
+.leftside {
+  float: left;
+  font-size: 18px;
+}
+
 .rightside {
     float: right;
     font-size: 18px;
@@ -20,6 +25,24 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: underline;
+  margin: 0 15px;
+}
+
+.forkie {
+  color: white;
+  transition: color 0.5s ease-in-out;
 }
 
 .forkie:hover {

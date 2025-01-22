@@ -1,13 +1,13 @@
 ## TODO List
 
 ### Website Pages
-- [ ] Forkies HTML page
+- [x] Forkies HTML page
 - [ ] Complainers HTML page
 - [ ] Image Gallery HTML page
 
 ### HTML + CSS = Magic
-- [ ] Create a navbar for each category
-- [ ] Make stylesheet for links
+- [x] Create a navbar for each category
+- [x] Make stylesheet for links
 
 Example:
 Home | Forkies | Complainers | Image Gallery
